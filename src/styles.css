@@ -418,7 +418,7 @@ button {
   align-items: center;
   gap: 32px;
    padding: 44px 34px; 
-    background-image: url('./src/assets/Nail_Art.png') !important;
+    background-image: url('../src/assets/Nail_Art.png') !important;
   /*background: radial-gradient(circle at top left, #ffe6f3 0%, #ffffff 36%),
     linear-gradient(180deg, #fff4f9 0%, #fffafc 100%);*/
     background: rgba(255, 192, 203, 0.3);
@@ -587,7 +587,7 @@ button {
   border-radius: 34px;
   background: radial-gradient(circle at 30% 30%, rgba(255, 255, 255, 0.85), transparent 45%);
   z-index: 1;
-  background-image: url('./src/assets/Nail_Art.png');
+  background-image: url('../src/assets/Nail_Art.png');
   background-size: cover;
 }
 
